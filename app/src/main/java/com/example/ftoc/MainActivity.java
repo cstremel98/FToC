@@ -23,6 +23,6 @@ public class MainActivity extends AppCompatActivity {
         View view = binding.getRoot();
         setContentView(view);
 
-        binding.mainTextView.setText("Success!");
+        binding.mainTextView.setText("Apparently.");
     }
 }
